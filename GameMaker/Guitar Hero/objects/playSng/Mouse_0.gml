@@ -1,0 +1,1 @@
+if(global.selected != "none"){room_goto(0);}
